@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACB_Prueba_Tecnica", "ACB_Prueba_Tecnica\ACB_Prueba_Tecnica.csproj", "{F7784755-DC08-4226-A54D-6549B5BFFBAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7784755-DC08-4226-A54D-6549B5BFFBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7784755-DC08-4226-A54D-6549B5BFFBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7784755-DC08-4226-A54D-6549B5BFFBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7784755-DC08-4226-A54D-6549B5BFFBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B22EF71F-95F7-43EE-90D3-E1A3374AF74C}
+	EndGlobalSection
+EndGlobal
