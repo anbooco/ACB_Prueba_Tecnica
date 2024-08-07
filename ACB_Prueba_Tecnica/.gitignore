@@ -70,4 +70,4 @@ $RECYCLE.BIN/
 *.sln.iml
 
 # Ignore database files
-/Data/*
+[Dd]ata/*
