@@ -69,8 +69,6 @@ $RECYCLE.BIN/
 .idea/
 *.sln.iml
 
-# Ignore database files
-/Data/*
+# Ignore SQLite database files
+acb_db_prueba_tecnica.*
 
-# Un-ignore the folder itself
-!/Data/
